@@ -71,6 +71,7 @@ prism_languages: [css]
 
   grid-gap: 1rem 0.5rem; /* Short-hand for row / column */
   grid-gap: 1rem; /* Gap in both dimensions */
+  gap: 1rem; /* Gap in both dimension also work in flexbox layout system*/
 ```
 
 ```css
